@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=cylinder&color=5df2d6&height=200&section=header&text=🤓%20아는%20만큼%20재밌는%20프론트엔드%20개발자,%20안솔입니다!%20🤓&fontSize=32&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=rounded&color=5df2d6&height=200&section=header&text=🤓%20As%20Fun%20As%20You%20Know%20🤓&fontSize=48&fontColor=ffffff)
 
 </br>
 </br>
